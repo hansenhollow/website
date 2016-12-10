@@ -557,6 +557,10 @@ hr.bold {
 	color: #fff;
 }
 
+.btn-file-download {
+	min-width: 350px;
+}
+
 .btn-min-block {
     min-width: 170px;
     line-height: 26px;
